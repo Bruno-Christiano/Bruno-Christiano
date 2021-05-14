@@ -10,7 +10,7 @@
    nome: 'Bruno Cristiano',
    idade: 27,
    cidade: 'Manaus, Amazonas',
-   stack: ['HTML5','CSS3','Javascript','NodeJS', 'Angular', 'MySQL', 'TypeScript'],
+   stack: ['HTML5','CSS3','JavaSript','NodeJS', 'VueJs', 'Postgresql', 'TypeScript'],
    hobbies: ['Games', 'Series', 'filmes', 'Paixão na cozinha', 'amigos', 'café', 'códigos', 'DESAFIOS']
   });
 
