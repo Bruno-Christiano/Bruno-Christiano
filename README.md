@@ -1,4 +1,4 @@
-# Olá, **Humanos**
+# Olá, **People**
 
 <p align="center">
   <img  width = 150vh src="buck.png" >
